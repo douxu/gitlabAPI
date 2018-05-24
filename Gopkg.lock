@@ -2,12 +2,6 @@
 
 
 [[projects]]
-  name = "github.com/bitly/go-simplejson"
-  packages = ["."]
-  revision = "aabad6e819789e569bd6aabf444c935aa9ba1e44"
-  version = "v0.5.0"
-
-[[projects]]
   name = "gopkg.in/yaml.v2"
   packages = ["."]
   revision = "5420a8b6744d3b0345ab293f6fcba19c978f1183"
@@ -16,6 +10,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "e6fabc301eea1a8b9c3f7cc5b7e742dd609c151e80739dcbe123121fd30ebfcf"
+  inputs-digest = "ce4cfa8aa3eb29f45e7ba341fdeac9820969e663181e81bddfc4a3aa2d5169bb"
   solver-name = "gps-cdcl"
   solver-version = 1

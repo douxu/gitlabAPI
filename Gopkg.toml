@@ -26,15 +26,6 @@
 
 
 [[constraint]]
-  name = "github.com/bitly/go-simplejson"
-  version = "0.5.0"
-
-#[[constraint]]
-#  name = "g.whispir.cc/whispircn/usercenter/umc_payment"
-#  branch = "dev"
-#  source = "https://g.wizardcloud.cn/whispircn/usercenter/umc_payment.git"
-
-[[constraint]]
   name = "gopkg.in/yaml.v2"
   version = "2.2.1"
 

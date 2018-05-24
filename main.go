@@ -13,6 +13,10 @@ import (
 )
 
 func main() {
+	// "g.whispir.cc/whispircn/usercenter/umc_payment/pkg/services/account"
+	// var AccService *account.Service
+	// fmt.Println(AccService)
+
 	config := new(modules.Config)
 	resChan := make(chan interface{})
 	issueList := make([]modules.Issue, 0)
