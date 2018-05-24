@@ -1,0 +1,18 @@
+accessInfo:
+  webURL: https://g.wizardcloud.cn
+  personalToken: D3T5MTzVGbBsATqyrh2W
+
+projectInfo:
+  id: 57
+  name: proj-management-whispirv2
+
+issueInfo:
+  createdbyself: false
+  state: opened
+  tag: Ver 1.6.0
+
+fileInfo:
+  title: V1.6.0
+  subtitle:
+    - Bug Fix
+    - What's new
