@@ -2,7 +2,7 @@
 
 
 [[projects]]
-  name = "github.com/douxu/go-gitlab.git"
+  name = "github.com/douxu/go-gitlab"
   packages = ["."]
   revision = "109fd962a3876c6e486a5bc9507289d060e3c587"
   version = "v0.9.0"
@@ -22,6 +22,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "066fe6f089a01679ba2ae7e18e1172d7894c2fd48d7d2132e3b1fc69a51eac10"
+  inputs-digest = "00d787514cc430e43e9f98774afa4fafbf0b190118526fee78fc7d1f59b46398"
   solver-name = "gps-cdcl"
   solver-version = 1

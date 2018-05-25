@@ -34,5 +34,5 @@
   unused-packages = true
 
 [[constraint]]
-  name = "github.com/douxu/go-gitlab.git"
+  name = "github.com/douxu/go-gitlab"
   version = "0.9.0"

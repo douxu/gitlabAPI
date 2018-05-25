@@ -9,7 +9,7 @@ import (
 	"log"
 	"strconv"
 
-	gitlab "github.com/douxu/go-gitlab.git"
+	gitlab "github.com/douxu/go-gitlab"
 	"gopkg.in/yaml.v2"
 )
 
