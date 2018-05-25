@@ -9,10 +9,17 @@ import (
 	"log"
 	"strconv"
 
+	gitlab "github.com/douxu/go-gitlab.git"
 	"gopkg.in/yaml.v2"
 )
 
 func main() {
+
+	var iessueT gitlab.Issue
+	fmt.Println(iessueT)
+
+	// page 当前的页码
+	// per_page 当前的页面存放issue的个数
 
 	config := new(modules.Config)
 	resChan := make(chan interface{})
